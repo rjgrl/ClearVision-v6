@@ -1,4 +1,4 @@
-$version: '6.3.0';
+$version: '1';
 
 /* ### ClearVision v#{$version} by the ClearVision team ### */
 
@@ -27,6 +27,7 @@ $version: '6.3.0';
 @import 'src/app/titlebar';
 
 // CHANNEL
+
 @import 'src/channels/specialChannels';
 @import 'src/channels/channels';
 @import 'src/channels/category';

@@ -33,10 +33,11 @@
   },
   "homepage": "https://clearvision.github.io",
   "devDependencies": {
-    "autoprefixer": "^10.4.4",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
     "postcss-cli": "^9.1.0",
     "prettier": "^2.6.2",
     "rimraf": "^3.0.2",
-    "sass": "^1.49.11"
+    "sass": "^1.69.5"
   }
 }
